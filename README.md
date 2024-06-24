@@ -25,27 +25,11 @@ Welcome to Tic-Tac-Toe, where two adorable animals, a cat and a dog, compete for
 
 ## Project Structure
 
-public/ <br>
-├── assets/<br>
-│   └── images/      # Contains images used in the game<br>
-├── index.html       # The main HTML file where the content is rendered<br>
-src/<br>
-├── components/<br>
-│   ├── CardElement.js  # Component representing an individual card<br>
-│   ├── GameBoard.js    # Component for the game board<br>
-│   ├── GameContainer.js  # Component containing the game container<br>
-│   └── GameOver.js     # Component for the game over screen<br>
-├── game/<br>
-│   └── game.js         # Contains game logic<br>
-├── index.css           # Contains styles for the game<br>
-├── index.js            # Entry point for the React application<br>
-└── MemoryGame.js       # Main component for the memory game
-
 - public/
   - assets/
     - images/: Contains images used in the game.
   - index.html: The main HTML file where the content is rendered.
-src/
+- src/
   - components/
     - CardElement.js: Component representing an individual card.
     - GameBoard.js: Component for the game board.
