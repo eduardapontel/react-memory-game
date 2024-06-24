@@ -41,6 +41,21 @@ src/<br>
 ├── index.js            # Entry point for the React application<br>
 └── MemoryGame.js       # Main component for the memory game
 
+- public/
+  - assets/
+    - images/: Contains images used in the game.
+  - index.html: The main HTML file where the content is rendered.
+src/
+  - components/
+    - CardElement.js: Component representing an individual card.
+    - GameBoard.js: Component for the game board.
+    - GameContainer.js: Component containing the game container.
+    - GameOver.js: Component for the game over screen.
+  - game/
+    - game.js: Contains game logic.
+  - index.css: Contains styles for the game.
+  - index.js: Entry point for the React application.
+  - MemoryGame.js: Main component for the memory game.
 
 ## How to Contribute
 
