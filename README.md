@@ -25,7 +25,7 @@ Welcome to Tic-Tac-Toe, where two adorable animals, a cat and a dog, compete for
 
 ## Project Structure
 
-`
+
 public/
 ├── assets/
 │   └── images/      # Contains images used in the game
@@ -41,7 +41,7 @@ src/
 ├── index.css           # Contains styles for the game
 ├── index.js            # Entry point for the React application
 └── MemoryGame.js       # Main component for the memory game
-`
+
 
 ## How to Contribute
 
