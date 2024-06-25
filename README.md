@@ -1,25 +1,23 @@
-# Tic-Tac-Toe - Cat vs Dog
+# Memory Game of Technologies 🎮
 
-Welcome to Tic-Tac-Toe, where two adorable animals, a cat and a dog, compete for victory! Challenge a friend to see who's the winner of Tic-Tac-Toe among the pets!
+Welcome to the Memory Game of Technologies! This is a simple and fun game to test your memory as you match pairs of popular technologies.
 
 ## About the New Version
 
 The game has been migrated to React! This update doesn't change any functionality but improves the code's performance and maintainability.
 
-## Game Instructions
+## How to Play 🕹️
 
-1. Open the [game](https://eduardapontel.github.io/tic-tac-toe/) in your browser.
-2. The game starts with the Cat always playing first.
-3. Click on an empty cell to place your animal's symbol on the grid.
-4. The goal is to get three symbols of your animal in a row (horizontal, vertical, or diagonal) to win.
-5. The game ends when a player wins or there is a draw.
+1. Open the [game link](https://eduardapontel.github.io/memory-game/) in your preferred browser.
+2. You'll see a grid of cards face down.
+3. Click on two cards to reveal their matching technologies.
+4. If the technologies of the two cards match, they will stay face up. Otherwise, they will be turned face down again.
+5. Continue flipping cards until you find all pairs of technologies.
+6. The game ends when all pairs are found.
 
-## How to Play
+## Top 3 Ranking 🏆
 
-- Click on an empty cell to place your symbol on the grid.
-- The next player does the same.
-- The game continues until there is a winner or a draw.
-- Restart the game by clicking the "Restart Game" button.
+At the end of the game, a ranking of the top three rounds will be displayed, showing the rounds that were completed with the fewest moves. Try to reach the top of the ranking!
 
 ## Technologies Used
 
@@ -46,8 +44,6 @@ The game has been migrated to React! This update doesn't change any functionalit
   - `index.js`: Entry point for the React application.
   - `MemoryGame.js`: Main component for the memory game.
 
-## How to Contribute
+## How to Contribute 🤝
 
-If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-Enjoy playing, and may the best pet win! 🐱🐶
+If you'd like to contribute to this game, feel free to send pull requests or open issues.
