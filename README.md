@@ -28,6 +28,7 @@ At the end of the game, a ranking of the top three rounds will be displayed, sho
 
 ## Project Structure
 
+- `node_modules` - Contains all the npm dependencies for the project.
 - `public/`
   - `assets/`
     - `images/` - Contains images used in the game.
@@ -43,6 +44,10 @@ At the end of the game, a ranking of the top three rounds will be displayed, sho
   - `index.css` - Contains styles for the game.
   - `index.js` - Entry point for the React application.
   - `MemoryGame.js` - Main component for the memory game.
+- `.gitignore` - Specifies files and directories that should be ignored by Git.
+- `package-lock.json` - Automatically generated file that describes the exact dependency tree installed in node_modules to ensure consistent installs.
+- `package.json` - Contains metadata about the project, including dependencies, scripts, and project details.
+- `README.md` - Provides an overview of the project, including setup instructions, usage guidelines, and other relevant information.
 
 ## How to Contribute 🤝
 
