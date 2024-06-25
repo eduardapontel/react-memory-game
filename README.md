@@ -30,19 +30,19 @@ At the end of the game, a ranking of the top three rounds will be displayed, sho
 
 - `public/`
   - `assets/`
-    - `images/`: Contains images used in the game.
-  - `index.html`: The main HTML file where the content is rendered.
+    - `images/` - Contains images used in the game.
+  - `index.html` - The main HTML file where the content is rendered.
 - `src/`
   - `components/`
-    - `CardElement.js`: Component representing an individual card.
-    - `GameBoard.js`: Component for the game board.
-    - `GameContainer.js`: Component containing the game container.
-    - `GameOver.js`: Component for the game over screen.
+    - `CardElement.js` - Component representing an individual card.
+    - `GameBoard.js` - Component for the game board.
+    - `GameContainer.js` - Component containing the game container.
+    - `GameOver.js` - Component for the game over screen.
   - `game/`
-    - `game.js`: Contains game logic.
-  - `index.css`: Contains styles for the game.
-  - `index.js`: Entry point for the React application.
-  - `MemoryGame.js`: Main component for the memory game.
+    - `game.js` - Contains game logic.
+  - `index.css` - Contains styles for the game.
+  - `index.js` - Entry point for the React application.
+  - `MemoryGame.js` - Main component for the memory game.
 
 ## How to Contribute 🤝
 
