@@ -2,6 +2,10 @@
 
 Welcome to Tic-Tac-Toe, where two adorable animals, a cat and a dog, compete for victory! Challenge a friend to see who's the winner of Tic-Tac-Toe among the pets!
 
+## About the New Version
+
+The game has been migrated to React! This update doesn't change any functionality but improves the code's performance and maintainability.
+
 ## Game Instructions
 
 1. Open the [game](https://eduardapontel.github.io/tic-tac-toe/) in your browser.
@@ -22,6 +26,7 @@ Welcome to Tic-Tac-Toe, where two adorable animals, a cat and a dog, compete for
 - HTML5
 - CSS3
 - JavaScript
+- React
 
 ## Project Structure
 
