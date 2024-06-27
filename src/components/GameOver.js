@@ -27,7 +27,7 @@ export default function GameOver(props) {
 
     return props.show ? (
         <div id="gameOver">
-            <div>Congratulations, you completed the game!</div>
+            <div>Congratulations, you finished the game!</div>
 
             <div id="ranking">
                 <table>
