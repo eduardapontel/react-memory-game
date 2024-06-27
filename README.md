@@ -6,9 +6,28 @@ Welcome to the Memory Game of Technologies! This is a simple and fun game to tes
 
 The game has been migrated to React! This update doesn't change any functionality but improves the code's performance and maintainability.
 
+## Prerequisites
+
+- Node.js installed on your machine.
+
+## Installation
+
+1. Clone the repository or download the project files.
+2. Open a terminal in the project directory.
+3. Run the following command to install the necessary packages:
+
+```sh
+  npm install
+```
+4. Run the following command to start the server on port 3000:
+
+```sh
+  npm start
+```
+
 ## How to Play 🕹️
 
-1. Open the [game link](https://eduardapontel.github.io/memory-game/) in your preferred browser.
+1. Open your browser and navigate to http://localhost:3000 to play the game.
 2. You'll see a grid of cards face down.
 3. Click on two cards to reveal their matching technologies.
 4. If the technologies of the two cards match, they will stay face up. Otherwise, they will be turned face down again.
@@ -17,7 +36,7 @@ The game has been migrated to React! This update doesn't change any functionalit
 
 ## Top 3 Ranking 🏆
 
-At the end of the game, a ranking of the top three rounds will be displayed, showing the rounds that were completed with the fewest moves. Try to reach the top of the ranking!
+At the end of the game, a ranking of the top three rounds will be displayed, showing the rounds that were completed with the fewest moves. If you want to play again and improve your score, simply click the "Restart" button to reset the game.
 
 ## Technologies Used
 
