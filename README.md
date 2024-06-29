@@ -27,12 +27,10 @@ The game has been migrated to React! This update doesn't change any functionalit
 
 ## How to Play 🕹️
 
-1. Open your browser and navigate to http://localhost:3000 to play the game.
-2. You'll see a grid of cards face down.
-3. Click on two cards to reveal their matching technologies.
-4. If the technologies of the two cards match, they will stay face up. Otherwise, they will be turned face down again.
-5. Continue flipping cards until you find all pairs of technologies.
-6. The game ends when all pairs are found.
+1. You'll see a grid of cards face down, click on two cards to reveal their matching technologies.
+2. If the technologies of the two cards match, they will stay face up. Otherwise, they will be turned face down again.
+3. Continue flipping cards until you find all pairs of technologies.
+4. The game ends when all pairs are found.
 
 ## Top 3 Ranking 🏆
 
